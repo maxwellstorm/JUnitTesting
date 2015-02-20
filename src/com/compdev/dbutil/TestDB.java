@@ -1,6 +1,7 @@
 package com.compdev.dbutil;
 
 
+import com.compdev.bo.BookAppointment;
 import java.util.*;
 import components.data.*;
 
@@ -113,7 +114,9 @@ public class TestDB {
         for (Object obj : objs){
             System.out.println(obj);
         } 
-
+        
+        
+ 
         //DAMS .....
 
   }
